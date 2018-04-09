@@ -1,0 +1,21 @@
+{
+  "name": "wether-app",
+  "description": "Weather map",
+  "main": "",
+  "authors": [
+    "nishant <nishant.singh87@gmail.com>"
+  ],
+  "license": "WTFPL",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "spec"
+  ],
+  "dependencies": {
+    "angular": "angularjs#1.5.11",
+    "angular-mocks": "~1.5.0"
+  }
+}
